@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "multiply and add",
+  "main": "add.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "louange-lidvine",
+  "license": "ISC"
+}
